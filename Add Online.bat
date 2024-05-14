@@ -8,4 +8,5 @@ winget install -e --id Tonec.InternetDownloadManager
 winget install -e --id PowerSoftware.PowerISO
 winget install -e --id WhatsApp.WhatsApp
 winget install -e --id COWON.jetAudio
+winget install -e --id Microsoft.VisualStudioCode
 
