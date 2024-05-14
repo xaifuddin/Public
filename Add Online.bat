@@ -1,5 +1,6 @@
 
 REM https://aka.ms/getwinget
+REM https://www.mediafire.com/folder/ns75acc3i8a2x/Software
 winget install -e --id 7zip.7zip
 winget install -e --id VideoLAN.VLC
 winget install -e --id AutoHotkey.AutoHotkey
