@@ -1,4 +1,5 @@
 
+REM https://aka.ms/getwinget
 winget install -e --id 7zip.7zip
 winget install -e --id VideoLAN.VLC
 winget install -e --id AutoHotkey.AutoHotkey
