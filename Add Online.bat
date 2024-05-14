@@ -1,6 +1,7 @@
 
 winget install -e --id 7zip.7zip
 winget install -e --id VideoLAN.VLC
+winget install -e --id AutoHotkey.AutoHotkey
 winget install -e --id Adobe.Acrobat.Reader.64-bit
 winget install -e --id Google.Chrome
 winget install -e --id AnyDeskSoftwareGmbH.AnyDesk
