@@ -13,5 +13,4 @@ winget install -e --id PowerSoftware.PowerISO
 winget install -e --id WhatsApp.WhatsApp
 winget install -e --id COWON.jetAudio
 winget install -e --id Microsoft.VisualStudioCode
-REM https://www.mediafire.com/folder/ns75acc3i8a2x/Software
 
