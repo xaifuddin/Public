@@ -1,6 +1,7 @@
 
 Powershell Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
 Powershell Add-AppxPackage -Path https://cdn.winget.microsoft.com/cache/source.msix
+winget settings --enable BypassCertificatePinningForMicrosoftStore
 winget install -e --id 7zip.7zip
 winget install -e --id VideoLAN.VLC
 winget install -e --id AutoHotkey.AutoHotkey
